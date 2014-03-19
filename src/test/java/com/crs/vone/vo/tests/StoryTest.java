@@ -52,11 +52,7 @@ public class StoryTest {
 		Collections.sort(story.getSumToDo(), new ToDoComparator());
 
 		assertEquals("The first ToDo should be 65.5", story.getSumToDo().get(0)
-				.getToDo(), 66.50, 0.0);
-		
-		assertEquals("The first ToDo should be 65.5", story.getSumToDo().get(1)
-				.getToDo(), 60000F, 0.0);
-
+				.getToDo(), 616.50, 0.0);
 
 	}
 
