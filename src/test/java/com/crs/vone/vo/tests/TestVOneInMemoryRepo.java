@@ -37,7 +37,7 @@ public class TestVOneInMemoryRepo {
 
 		assertEquals("Fetched ToDo should be 60.5 ",
 				repo.getStory(FactoryTest.TMS_STORY_NAME).getSumToDo().get(0)
-						.getToDo(), 60.5F, 0.0);
+						.getToDo(), 62.5F, 0.0);
 
 	}
 
