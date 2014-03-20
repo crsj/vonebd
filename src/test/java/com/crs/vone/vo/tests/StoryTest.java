@@ -39,7 +39,7 @@ public class StoryTest {
 	}
 
 	@Test
-	//@Ignore
+	@Ignore
 	public void testSetToDo2() {
 
 		Story story = VOFactory.getStory(FactoryTest.TMS_STORY_NAME);
