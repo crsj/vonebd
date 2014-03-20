@@ -14,7 +14,7 @@
 
 	<div>
 		<h3>Story/Subsystem(s) wise burndowns.(&#946;)</h3>
-		(Just for fun!)(Build:<%=System.getProperty("deploy.date")%>)
+		(Just for fun!)(Build: Verion 1.2)
 	</div>
 
 	<%
